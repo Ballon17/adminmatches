@@ -1,0 +1,24 @@
+[
+  {
+    "league": "Spanish La Liga",
+    "leagueIcon": "🇪🇸",
+    "home": "Real Madrid",
+    "away": "Barcelona",
+    "time": "21:00",
+    "status": "upcoming",
+    "score": "VS",
+    "channel": "beIN Sports 1 HD",
+    "commentator": "English Commentary"
+  },
+  {
+    "league": "UEFA Champions League",
+    "leagueIcon": "🏆",
+    "home": "Manchester City",
+    "away": "Bayern Munich",
+    "time": "22:00",
+    "status": "upcoming",
+    "score": "VS",
+    "channel": "TNT Sports 1",
+    "commentator": "Darren Fletcher"
+  }
+]
